@@ -39,5 +39,5 @@ To run this project
 
 ## Feedback
 
-If you have any feedback, please reach out to us at gautampjoshi7@gamil.com
+If you have any feedback, please reach out to us at gautampjoshi7@gmail.com
 
