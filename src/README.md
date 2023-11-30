@@ -33,7 +33,7 @@ Requirements
 To run this project 
 
 ```bash
-  run app.py file
+  run app.py 
 ```
 
 
